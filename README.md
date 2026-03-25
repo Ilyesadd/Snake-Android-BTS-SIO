@@ -43,14 +43,14 @@ app/src/main/
 
 > Min SDK : API 24 (Android 7.0)
 
-## 🎮 Règles du jeu
+## Règles du jeu
 
 - Le serpent se déplace en continu
 - Mange les pommes 🔴 pour grandir et marquer des points
 - Évite les murs et ton propre corps
 - Game Over si collision !
 
-## 📚 Concepts Java / Android abordés
+## Concepts Java / Android abordés
 
 - Héritage (`extends View`) et `@Override`
 - `ArrayList` pour gérer le corps du serpent
@@ -61,6 +61,6 @@ app/src/main/
 - Cycle de vie d'une `Activity` (`onCreate`, `onPause`)
 - Gestion des événements tactiles (`onTouchEvent`)
 
-## 👨‍💻 Auteur
+## Auteurs
 
 **Elyas, Mohammed, Salah** — BTS SIO
